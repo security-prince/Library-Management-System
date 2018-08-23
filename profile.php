@@ -61,22 +61,7 @@ include('login.php');
 
 	<div class="container">
 
-	<h2>Connect with Me <br>
-Ishaq Mohammed</h2>
-	
-<marquee  width="70%" style="float:right">
-<a href="https://www.facebook.com/shaikh.ishaq.7">
-	<img src="img/facebook.png" alt="Ishaq Mohammed" width="100" height="100" border="0">
-  <a href="https://plus.google.com/+ShaikhIshaq">
-  	<img src="img/google+.png" alt="Ishaq Mohammed"width="100" height="100"  border="0">
- <a href="https://twitter.com/shaikhishaq201">
-<img src="img/twitter.png" alt="Ishaq Mohammed"width="100" height="100" border="0"></a>
- 	<a href= "https://mail.google.com">
- 		<img src="img/gmail.png" alt="Ishaq Mohammed" width="100" height="100" border="0"></a>
-		<a href="https://www.linkedin.com/in/ishaq-mohammed-a13936b9?trk=nav_responsive_tab_profile_pic">
-		<img src="img/linkedin.png" alt="Ishaq Mohammed" width="100" height="100" border="0"></a>
- 	</marquee>
-	<br><br><br><br><center>
+<h2><a href="https://about.me/security-prince/" style="font-family:Roboto-Light,sans-serif;color:black"> Ishaq Mohammed</a><br></h2>
 	<b><a href="userhome.php" style="color:red""font:Rosermery,sans-serif""font-size:30px"><span><b></b>Go Back</span></a></center></b>
  </div>
 		
